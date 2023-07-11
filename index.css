@@ -10,6 +10,7 @@ body {
 .counter-app {
     max-width: 300px;
     margin: auto;
+    margin-top: 50px;
     border: 5px dotted purple;
     background-color: #ffffff90;
     padding: 20px;
